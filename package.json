@@ -1,0 +1,15 @@
+{
+  "name": "koa-fun",
+  "description": "some fun with koa.js",
+  "version": "0.0.1",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/ryanjadhav/koa-fun.git"
+  },
+  "dependencies": {
+    "koa": "~0.3.0"
+  },
+  "devDependencies": {
+  }
+}
